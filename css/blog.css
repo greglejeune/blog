@@ -9,6 +9,10 @@ body {
     text-rendering: optimizeLegibility;
 }
 
+a {
+    text-decoration: none;
+}
+
 .container-lg {
     max-width: 1040px;
     margin: 0 auto;
