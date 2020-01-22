@@ -3,5 +3,11 @@ layout: default
 ---
 
 {% for post in site.posts %}
-    <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <article>
+            <header>
+                <h1>{{post.title}}</h1>
+            </header>
+        </article>
+    </a>
 {% endfor %}
