@@ -37,6 +37,11 @@ article {
     padding: 75px 0;
 }
 
+article.list {
+    margin: 0 auto 101px;
+    padding: 15px 0 30px;
+}
+
 article header {
     text-align: center;
     width: 680px;
