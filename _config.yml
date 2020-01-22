@@ -1,5 +1,5 @@
 title: Blog
-baseurl: ""
+baseurl: "https://greglejeune.github.io/blog"
 url: ""
 
 markdown: kramdown
