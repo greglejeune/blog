@@ -6,8 +6,11 @@ layout: default
     <a href="{{ post.url | prepend: site.baseurl }}">
         <article>
             <header>
-                <h1>{{post.title}}</h1>
+                <h1>{{ post.title }}</h1>
             </header>
+            <div class="content">
+                <p>{{ post.excerpt }}</p>
+            </div>
         </article>
     </a>
 {% endfor %}
