@@ -49,6 +49,10 @@ a {
     text-decoration: none;
 }
 
+a.arrow {
+    color: #008cdd;
+}
+
 .container-lg {
     max-width: 1040px;
     margin: 0 auto;
