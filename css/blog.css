@@ -9,6 +9,12 @@ body {
     text-rendering: optimizeLegibility;
 }
 
+.page {
+    width: 100%;
+    max-width: 48rem;
+    margin: 0 auto;
+}
+
 .index {
     padding-left: 1rem;
     padding-right: 1rem;
