@@ -17,5 +17,8 @@ title: "Basou explique son thinking process en HU 5k€"
 			<source src="http://videos.poker-academie.com/videos/Basou_NL5K.mp4" type="video/mp4" />
 		</video>
 	</div>
-	<h3>Présentation</h3> <a class="arrow" href="#" onclick="document.querySelector('#player').currentTime=150"> Visionner </a>
+	<div style="display: flex;">
+		<h3>Présentation</h3>
+		<a class="arrow" href="#" onclick="document.querySelector('#player').currentTime=150"> Visionner </a>
+	</div>
 </div>
