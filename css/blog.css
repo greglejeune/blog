@@ -9,6 +9,15 @@ body {
     text-rendering: optimizeLegibility;
 }
 
+.index {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+    align-items: center;
+    display: flex;
+}
+
 .index svg {
     width: 1.25rem;
     height: 1.25rem;
