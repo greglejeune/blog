@@ -35,6 +35,7 @@ body {
 
 .link {
     align-items:baseline;
+    color: #718096;
 }
 
 .link svg {
