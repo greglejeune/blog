@@ -33,7 +33,7 @@ body {
     margin-right: 1rem;
 }
 
-arrow:after {
+.arrow:after {
     content: "";
     display: inline-block;
     width: 5px;
@@ -120,6 +120,11 @@ article p {
     line-height: 1.8;
     margin: 15px 0;
     text-align: justify;
+}
+
+article p strong {
+    font-weight: 600;
+    color: #292e31;
 }
 
 .citation {
