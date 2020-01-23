@@ -181,3 +181,7 @@ ol>li:before {
     left: -32px;
     top: 2.25px;
 }
+
+.mermaid svg {
+    width: 578;
+}
