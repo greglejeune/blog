@@ -22,6 +22,8 @@ body {
     padding-bottom: .25rem;
     align-items: center;
     display: flex;
+    color: #718096;
+    font-size: 1rem;
 }
 
 .index svg {
