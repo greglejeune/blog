@@ -34,7 +34,7 @@ body {
 }
 
 .link {
-    align-items:flex-end;
+    align-items:baseline;
 }
 
 .link svg {
