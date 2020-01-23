@@ -9,6 +9,13 @@ body {
     text-rendering: optimizeLegibility;
 }
 
+.index svg {
+    width: 1.25rem;
+    height: 1.25rem;
+    fill: currentColor;
+    margin-right: 1rem;
+}
+
 a {
     text-decoration: none;
 }
@@ -180,8 +187,4 @@ ol>li:before {
     position: absolute;
     left: -32px;
     top: 2.25px;
-}
-
-.mermaid svg {
-    width: 578;
 }
