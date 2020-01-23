@@ -23,6 +23,4 @@ title: "Basou explique son thinking process en HU 5k€"
 		</a>
 		Présentation
 	</h3>
-		<a class="arrow" href="#" onclick="document.querySelector('#player').currentTime=150"> Visionner </a>
-	</div>
 </div>
