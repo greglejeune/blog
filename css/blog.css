@@ -33,6 +33,18 @@ body {
     margin-right: 1rem;
 }
 
+arrow:after {
+    content: "";
+    display: inline-block;
+    width: 5px;
+    height: 7px;
+    background-image: url(https://stripe.com/img/link_arrows/blue.png);
+    background-size: 10px 7px;
+    position: relative;
+    top: -1px;
+    margin: 0 0 0 6px;
+}
+
 a {
     text-decoration: none;
 }
