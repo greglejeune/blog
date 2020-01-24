@@ -74,10 +74,10 @@ title: "Basou explique son thinking process en HU 5k€"
     Ici le joueur n'est pas loin des 100%. Le bas de range c'est 95o ici, il a plus d'OP et de bon 9 (on va 3Bet 98s, T9s, J9s, ...). De manière générale, il est en position avec un range advantage, il est donc favoris dans ce spot. Il a donc intéret à miser ici.
   </p>
   <p>
-    Le joueur va donc souvent miser, il va donc avoir une fréquence importante. La fréquence et le sizing sont liés, plus on va miser, plus notre sizing sera petit sauf dans le cas particulier d'un gros avantage de range ou il peu y avoir de gros sizing.
+    Le joueur va donc souvent miser, il va donc avoir une fréquence importante. La fréquence et le sizing sont liés, plus on va miser, plus notre sizing sera petit sauf dans le cas particulier d'un gros avantage de range ou l'on peut utiliser un gros sizing.
   </p>
   <p>
-    Enfin avec le sizing qu'il va utiliser, on va pouvoir en déduire sa fréquence et donc sa stratégie.
+    Ici le BTN fait 1/3p, il va donc avoir une grosse fréquence de CBET.
   </p>
 </div>
 
