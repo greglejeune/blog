@@ -64,7 +64,7 @@ title: "Basou explique son thinking process en HU 5k€"
     Cas pratique
   </h3>
   <blockquote>
-    On est en HU. BTN open et BB call. <br/>
+    On est en HU. BTN open et BB call. <br/><br/>
     Le board est
     9 <img style="width: 20px;" src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" />
     9 <img style="width: 20px;" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" />
