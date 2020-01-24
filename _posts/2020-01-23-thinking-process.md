@@ -51,6 +51,33 @@ title: "Basou explique son thinking process en HU 5k€"
   <p>
     On part toujours de l'adversaire. Doit on jouer GTO ou exploitant ? Ensuite on definie sa range preflop. Enfin avec le flop, on voit qui à le range advantage dans le spot.
   </p>
+  <p>
+    Enfin avec le sizing qu'il va utiliser, on va pouvoir en déduire sa fréquence et donc sa stratégie.
+  </p>
+  <h3>
+    <a class="link" href="#" onclick="document.querySelector('#player').currentTime=360">
+      <svg viewBox="0 0 24 24">
+        <path d="M4 3h16a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2zm0 2v2h2V5H4zm0 4v2h2V9H4zm0 4v2h2v-2H4zm0 4v2h2v-2H4zM18 5v2h2V5h-2zm0 4v2h2V9h-2zm0 4v2h2v-2h-2zm0 4v2h2v-2h-2z"></path>
+        <path d="M9 5h6a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1zm0 8h6a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1z"></path>
+      </svg>
+    </a>
+    Cas pratique
+  </h3>
+  <blockquote>
+    On est en HU. BTN open et BB call. Le board est
+    9 <img style="width: 20px;" src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" />
+    9 <img style="width: 20px;" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" />
+    5 <img style="width: 20px;" src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" />
+  </blockquote>
+  <p>
+    Ici le joueur n'est pas loin des 100%. Le bas de range c'est 95o ici, il a plus d'OP et de bon 9 (on va 3Bet 98s, T9s, J9s, ...). De manière générale, il est en position avec un range advantage, il est donc favoris dans ce spot. Il a donc intéret à miser ici.
+  </p>
+  <p>
+    Le joueur va donc souvent miser, il va donc avoir une fréquence importante. La fréquence et le sizing sont liés, plus on va miser, plus notre sizing sera petit sauf dans le cas particulier d'un gros avantage de range ou il peu y avoir de gros sizing.
+  </p>
+  <p>
+    Enfin avec le sizing qu'il va utiliser, on va pouvoir en déduire sa fréquence et donc sa stratégie.
+  </p>
 </div>
 
 <script>mermaid.initialize({startOnLoad:true});</script>
