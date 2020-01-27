@@ -4,3 +4,6 @@ url: ""
 
 markdown: kramdown
 permalink: pretty
+
+collections:
+- recettes
