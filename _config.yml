@@ -4,6 +4,7 @@ url: ""
 
 markdown: kramdown
 permalink: pretty
+#permalink: /:categories/:title
 
 collections:
   recettes:
