@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Basou explique son thinking process en HU 5k€"
 ---
 
