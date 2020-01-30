@@ -1,5 +1,6 @@
 body {
   background-color: #f7fafc;
+  color: #4a5568;
 }
 
 main {
@@ -34,6 +35,12 @@ article>header>.avatar>img {
   border-color: #e2e8f0;
   display: block;
   vertical-align: middle;
+}
+
+article>header>span {
+  color: #4a5568;
+  text-align: center;
+  line-height: 1.625;
 }
 
 article>.body {
