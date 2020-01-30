@@ -33,6 +33,10 @@ article>header {
   align-items: center;
 }
 
+article>header>.avatar {
+  margin-bottom: 2.5rem;
+}
+
 article>header>.avatar>img {
   max-width: 100%;
   width: 4rem;
