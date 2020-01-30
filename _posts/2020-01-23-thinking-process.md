@@ -1,12 +1,15 @@
 ---
 layout: article
+title: Basou explique son thinking process en HU 5k€
+img: basou.jpg
+video: Basou_NL5K.mp4
 ---
 
 <header class="header">
   <div class="avatar">
-    <img src="/blog/img/basou.jpg">
+    <img src="/blog/img/{{ page.img }}">
   </div>
-  <h1>Basou explique son thinking process en HU 5k€</h1>
+  <h1>{{ page.title }}</h1>
   <span>Basou en Janvier 2020</span>
 </header>
 <div class="body">
@@ -15,7 +18,7 @@ layout: article
   
   <div class="video">
     <video id="player" controls>
-        <source src="http://videos.poker-academie.com/videos/Basou_NL5K.mp4" type="video/mp4">
+        <source src="http://videos.poker-academie.com/videos/{{ page.video }}" type="video/mp4">
     </video>
   </div>
   
