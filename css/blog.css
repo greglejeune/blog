@@ -54,6 +54,10 @@ article>.body {
   width: 100%;
 }
 
+article>.body>.video {
+  margin: 2rem -10rem;
+}
+
 video {
  max-width: 100%;
  height: auto;
