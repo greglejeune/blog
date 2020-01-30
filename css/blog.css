@@ -11,5 +11,9 @@ article {
 }
 
 video {
- margin: 2rem -10rem; 
+ margin: 2rem -10rem;
+ max-width: 100%;
+ height: auto;
+ display: block;
+ vertical-align: middle;
 }
