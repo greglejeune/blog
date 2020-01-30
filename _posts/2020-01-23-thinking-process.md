@@ -1,4 +1,5 @@
 ---
+layout: article
 ---
 
 <h1>Basou explique son thinking process en HU 5k€</h1>
