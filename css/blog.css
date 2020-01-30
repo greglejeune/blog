@@ -1,3 +1,8 @@
+main {
+  max-width: 56rem;
+  margin: 3rem auto;
+}
+
 article {
   border-style: solid;
   border-width: 1px;
