@@ -19,6 +19,19 @@ article>header {
   align-items: center;
 }
 
+article>header>.avatar>img {
+  max-width: 100%;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 9999px;
+  border-color: #e2e8f0;
+  display: block;
+  vertical-align: middle;
+}
+
 article>.body {
   max-width: 36rem;
   margin: 0 auto;
