@@ -22,6 +22,7 @@ article {
   border-width: 1px;
   border-color: #e2e8f0;
   background-color: #fff;
+  padding-bottom: 4rem;
 }
 
 article>header {
