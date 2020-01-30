@@ -16,7 +16,7 @@ article {
 
 article>header {
   max-width: 42rem;
-  margin: 2rem auto;
+  margin: -2rem auto 2rem;
   width: 100%;
   display: flex;
   flex-direction: column;
