@@ -9,3 +9,7 @@ article {
   border-color: #e2e8f0;
   background-color: #fff;
 }
+
+video {
+ margin: 2rem -10rem; 
+}
