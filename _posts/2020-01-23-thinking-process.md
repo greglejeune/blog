@@ -29,6 +29,8 @@ video: Basou_NL5K.mp4
       Flop --> D[Range Advantage]
       N --> D
       R --> D
+      D --> C[Sa Stratégie]
+      S[Sizing] --> C
   </div>
   
   <p>On commence par l'adversaire :</p>
