@@ -30,7 +30,7 @@ video: Basou_NL5K.mp4
       N --> D
       R --> D
       D --> C[Sa Stratégie]
-      S[Sizing] --> C
+      Z[Sizing] --> C
   </div>
   
   <p>On commence par l'adversaire :</p>
