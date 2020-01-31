@@ -48,14 +48,16 @@ video: Basou_NL5K.mp4
   <p>Dans ce spot, nous avons autant de 5 que lui. Par contre nous avons moins de 9 car nous allons 3bet les 98s, T9s, J9s et quelques fois les A9o, K9s, Q9s. Nous n'aurons aussi presque pas d'OP.</p>
   <p>Nous avons tous les deux une range large, il a ses OP et plus de 9, il est donc favoris dans ce coup grâce à son avantage de range. Il a donc intérêt à miser, il va donc avoir une fréquence importante de CBET.</p>
   <blockquote>
-    La fréquence et le sizing sont liés, si on bet à haute fréquence, on va réduire notre sizing sauf si on a un énorme range advantage.   </blockquote>
-  <p>Exemple : Sur AKQ, KQT, on peut OB dès le flop a cause de notre avantage de NUTS.</p>
-  <p>Ici on n'a donc pas envie de miser cher, mais de protéger notre équité, donc il devrait faire un petit sizing.</p>
-  <p>Il fait 1/3p, il va donc avoir une fréquence importante de CBET, voila sa stratégie.</p>
+    La fréquence et le sizing sont liés, si on bet à haute fréquence, on va réduire notre sizing sauf si on a un énorme range advantage.
+    <br/>
+    Exemple : Sur AKQ, KQT, on peut OB dès le flop a cause de notre avantage de NUTS.
+  </blockquote>
+  <p>Ici il a donc envie de protéger son équité mais pas de miser cher. Il fait 1/3p, il va donc avoir une fréquence de CBET importante, voila donc sa stratégie dans ce spot.</p>
+  <p>Comme il va beaucoup miser, nous allons devoir défendre énormément. Nous allons pouvoir défendre en CALL ou en RAISE.</p>
   <p>Si il mise beaucoup, nous allons devoir défendre beaucoup, soit en CALL soit en RAISE.</p>
-  <p>Ici on va float avec nos Ahi, backdoorFD &amp; OC/5 (J8s, Kxs, Kxo).</p>
-  <p>Sur le petit sizing on va avoir envie d'avoir une stratégie de X/R, avec le 9 mais aussi en protection avec un 5 (mauvais kicker + backdoor).</p>
-  <p>Il faut aussi réfléchir à la street suivante, car c'est un spot bon à deux barrel car on va beaucoup float (OC, Ahi), nous n'avons pas une range très forte que nous devons protéger.</p>
+  <p>Ici on va FLOAT avec nos Ahi, nos backdoor FD avec OC/5 (J8s, Kxs, Kxo). Sur un petit sizing on va aussi avoir envie d'avoir une stratégie de X/R, avec le 9 mais aussi avec un 5 (mauvais kicker + backdoor) en protection.</p>
+  <p>Il faut aussi réflechir à la STREET suivante, car c'est un bon spot à 2 BARREL car nous allons beaucoup FLOAT (OC, Ahi, ...) et nous n'avons donc jamais une range très forte ici.</p>
+  
   <p>Ici comme on va X/R beaucoup, on va faire petit (3.5x), mais sur K72r (on a plus de DP, donc on fera 4-5x).</p>
   <p>Maintenant on va regarder la propriété de notre main (équité &amp; blocker).</p>
   <p>Ce qui est bon a X/R, ce sont les mains avec le plus d'équité vers les NUTS.</p>
