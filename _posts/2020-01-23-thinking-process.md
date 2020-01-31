@@ -39,12 +39,8 @@ video: Basou_NL5K.mp4
       style Flop fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
   </div>
   
-  <p>On commence par l'adversaire :</p>
-  <p>GTO ou GTNO (récréatifs mais aussi réguliers) : Mais comme personne ne joue parfaitement, il y aura toujours de l'adaptation à faire.</p>
-  <p>Sa range PreFlop</p>
-  <p>Ici il ouvre presque 100%</p>
-  <p>Le flop</p>
-  <p>En fonction de notre range dans ce spot, on va pouvoir déterminer qui à le range advantage.</p>
+  <p>On commence le processus par l'adversaire. Quel est son profil ? Doit on jouer GTO contre lui ou exploitant ? Cela va nous permettre de définir sa range et notre range dans ce spot.</p>
+  <p>Ici c'est un joueur de NL5K, on va donc jouer équilibré. Ici il ouvre presque 100% des mains et nous on a 95o comme bas de range.</p>
   <p>Cas pratique 9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 20px;">&nbsp;9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" style="width: 20px;">&nbsp;5 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 20px;"></p>
   <p>Ici le bas de range c'est 95o, nous on va 3bet ( 98s, T9s, J9s, A9o, K9s, Q9s ), il va avoir aussi toutes ses OP.</p>
   <p>Il est en position, il a ses OP, plus de 9, il est donc favoris dans ce coup, il a le range advantage. Il va donc avoir intérêt à miser, il va donc avoir une fréquence importante.</p>
