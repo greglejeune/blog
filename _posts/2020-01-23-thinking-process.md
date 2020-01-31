@@ -51,3 +51,5 @@ video: Basou_NL5K.mp4
   <p>(17:00)</p>
   
 </div>
+
+<script>mermaid.initialize({startOnLoad:true});</script>
