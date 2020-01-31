@@ -56,15 +56,11 @@ video: Basou_NL5K.mp4
   <p>Comme il va beaucoup miser, nous allons devoir défendre énormément. Nous allons pouvoir défendre en CALL ou en RAISE.</p>
   <p>Si il mise beaucoup, nous allons devoir défendre beaucoup, soit en CALL soit en RAISE.</p>
   <p>Ici on va FLOAT avec nos Ahi, nos backdoor FD avec OC/5 (J8s, Kxs, Kxo). Sur un petit sizing on va aussi avoir envie d'avoir une stratégie de X/R, avec le 9 mais aussi avec un 5 (mauvais kicker + backdoor) en protection.</p>
-  <p>Il faut aussi réflechir à la STREET suivante, car c'est un bon spot à 2 BARREL car nous allons beaucoup FLOAT (OC, Ahi, ...) et nous n'avons donc jamais une range très forte ici.</p>
-  
+  <p>Il faut aussi réflechir à la STREET suivante, car c'est un bon spot à 2 BARREL. Nous allons beaucoup FLOAT (OC, Ahi, ...) et nous n'avons donc jamais une range très forte ici.</p>
+  <p>Enfin nous allons analyser la propriété de notre main (équité + blocker). On utilise surtout les blockers dans les jeux SS et plus l'équité quand on est deep.</p>
+  <p>Ce qui est donc bon à X/R ici, ce sont les mains avec le plus d'équité vers les NUTS. Ici on va faire face à des 9x, 5x, Ahi, donc il faut prendre les meilleurs 9 en value et prendre des mains &gt; au 5 en bluff comme des 87, 76, T8s, J8s, backdoor SD + FD.</p>
+  <p>Sur certains boards sans équité, on va devoir prendre des mains avec des blockers mais pas ici.</p>
   <p>Ici comme on va X/R beaucoup, on va faire petit (3.5x), mais sur K72r (on a plus de DP, donc on fera 4-5x).</p>
-  <p>Maintenant on va regarder la propriété de notre main (équité &amp; blocker).</p>
-  <p>Ce qui est bon a X/R, ce sont les mains avec le plus d'équité vers les NUTS.</p>
-  <p>Ici vs X/R, on va faire face à un Ahi, 5x, 9x, donc on peut deja prendre des mains &gt; 5.</p>
-  <p>Ensuite on va pouvoir prendre, 97,67,T8s,J8s, backdoor SD+FD.</p>
-  <p>Sur certain board sans équité, on va pouvoir prendre des mains avec des blockers (8,7,6).</p>
-  <p>On utilise surtout les blockers en SS et plus l'équité quand on est deep.</p>
   <p>(17:00)</p>
 
   
