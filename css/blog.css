@@ -103,3 +103,8 @@ blockquote {
   border-color: #e2e8f0;
   background-color: #fff;
 }
+
+mermaid {
+   font-size: .75rem;
+   color: #4a5568;
+}
