@@ -31,6 +31,11 @@ video: Basou_NL5K.mp4
       R --> D
       D --> C[Sa Stratégie]
       Z[Sizing] --> C
+      style A fill:#f5f5f5,stroke:#666666,stroke-width:1px
+      style Z fill:#f5f5f5,stroke:#666666,stroke-width:1px
+      style D fill:#f8cecc,stroke:#b85450,stroke-width:1px
+      style S fill:#d5e8d4,stroke:#82b366,stroke-width:1px
+      style Flop fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
   </div>
   
   <p>On commence par l'adversaire :</p>
