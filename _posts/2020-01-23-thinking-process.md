@@ -16,6 +16,8 @@ video: Basou_NL5K.mp4
     </video>
   </div>
   
+  <h2>Thinking process</h2>
+  
   <p>On commence par l'adversaire :</p>
   <p>GTO ou GTNO (récréatifs mais aussi réguliers) : Mais comme personne ne joue parfaitement, il y aura toujours de l'adaptation à faire.</p>
   <p>Sa range PreFlop</p>
