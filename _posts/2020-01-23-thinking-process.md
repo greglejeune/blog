@@ -61,7 +61,8 @@ video: Basou_NL5K.mp4
   <p>Ce qui est donc bon à X/R ici, ce sont les mains avec le plus d'équité vers les NUTS. Ici on va faire face à des 9x, 5x, Ahi, donc il faut prendre les meilleurs 9 en value et prendre des mains &gt; au 5 en bluff comme des 87, 76, T8s, J8s, backdoor SD + FD.</p>
   <p>Sur certains boards sans équité, on va devoir prendre des mains avec des blockers mais pas ici.</p>
   <p>Ici comme on va X/R beaucoup, on va faire petit (3.5x), mais sur K72r (on a plus de DP, donc on fera 4-5x).</p>
-  <p>(17:00)</p>
+  
+  <a href="#" onclick="document.querySelector('#player').currentTime=1020">17:00</a>
   
 </div>
 
