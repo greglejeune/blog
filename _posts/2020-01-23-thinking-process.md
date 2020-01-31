@@ -49,7 +49,7 @@ video: Basou_NL5K.mp4
   <p>Nous avons tous les deux une range large, il a ses OP et plus de 9, il est donc favoris dans ce coup grâce à son avantage de range. Il a donc intérêt à miser, il va donc avoir une fréquence importante de CBET.</p>
   <blockquote>
     La fréquence et le sizing sont liés, si on bet à haute fréquence, on va réduire notre sizing sauf si on a un énorme range advantage.
-    <br/>
+    <br/><br/>
     Exemple : Sur AKQ, KQT, on peut OB dès le flop a cause de notre avantage de NUTS.
   </blockquote>
   <p>Ici il a donc envie de protéger son équité mais pas de miser cher. Il fait 1/3p, il va donc avoir une fréquence de CBET importante, voila donc sa stratégie dans ce spot.</p>
@@ -62,7 +62,6 @@ video: Basou_NL5K.mp4
   <p>Sur certains boards sans équité, on va devoir prendre des mains avec des blockers mais pas ici.</p>
   <p>Ici comme on va X/R beaucoup, on va faire petit (3.5x), mais sur K72r (on a plus de DP, donc on fera 4-5x).</p>
   <p>(17:00)</p>
-
   
 </div>
 
