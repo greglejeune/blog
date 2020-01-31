@@ -40,8 +40,11 @@ video: Basou_NL5K.mp4
   </div>
   
   <p>On commence le processus par l'adversaire. Quel est son profil ? Doit on jouer GTO contre lui ou exploitant ? Cela va nous permettre de définir sa range et notre range dans ce spot.</p>
-  <p>Ici c'est un joueur de NL5K, on va donc jouer équilibré. Ici il ouvre presque 100% des mains et nous on a 95o comme bas de range.</p>
-  <p>Cas pratique 9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 20px;">&nbsp;9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" style="width: 20px;">&nbsp;5 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 20px;"></p>
+  <p>
+    Ici c'est un joueur de NL5K, on va donc jouer équilibré. Ici il ouvre presque 100% des mains et nous on a 95o comme bas de range. </p>
+  <blockquote>
+    9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 20px;">&nbsp;9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" style="width: 20px;">&nbsp;5 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 20px;">
+  </blockquote>
   <p>Ici le bas de range c'est 95o, nous on va 3bet ( 98s, T9s, J9s, A9o, K9s, Q9s ), il va avoir aussi toutes ses OP.</p>
   <p>Il est en position, il a ses OP, plus de 9, il est donc favoris dans ce coup, il a le range advantage. Il va donc avoir intérêt à miser, il va donc avoir une fréquence importante.</p>
   <p>La fréquence et le sizing sont liés, si on bet à haute fréquence, on va réduire notre sizing sauf si on a un énorme range advantage.</p>
@@ -60,6 +63,7 @@ video: Basou_NL5K.mp4
   <p>Sur certain board sans équité, on va pouvoir prendre des mains avec des blockers (8,7,6).</p>
   <p>On utilise surtout les blockers en SS et plus l'équité quand on est deep.</p>
   <p>(17:00)</p>
+
   
 </div>
 
