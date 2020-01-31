@@ -26,6 +26,9 @@ video: Basou_NL5K.mp4
       GTO --> N[Notre Range]
       GTNO --> N
       A --> R[Sa range PreFlop]
+      Flop --> D[Range Advantage]
+      N --> D
+      R --> D
   </div>
   
   <p>On commence par l'adversaire :</p>
