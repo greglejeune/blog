@@ -45,9 +45,10 @@ video: Basou_NL5K.mp4
   <blockquote>
     9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 20px;">&nbsp;9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" style="width: 20px;">&nbsp;5 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 20px;">
   </blockquote>
-  <p>Ici le bas de range c'est 95o, nous on va 3bet ( 98s, T9s, J9s, A9o, K9s, Q9s ), il va avoir aussi toutes ses OP.</p>
-  <p>Il est en position, il a ses OP, plus de 9, il est donc favoris dans ce coup, il a le range advantage. Il va donc avoir intérêt à miser, il va donc avoir une fréquence importante.</p>
-  <p>La fréquence et le sizing sont liés, si on bet à haute fréquence, on va réduire notre sizing sauf si on a un énorme range advantage.</p>
+  <p>Dans ce spot, nous avons autant de 5 que lui. Par contre nous avons moins de 9 car nous allons 3bet les 98s, T9s, J9s et quelques fois les A9o, K9s, Q9s. Nous n'aurons aussi presque pas d'OP.</p>
+  <p>Nous avons tous les deux une range large, il a ses OP et plus de 9, il est donc favoris dans ce coup grâce à son avantage de range. Il a donc intérêt à miser, il va donc avoir une fréquence importante de CBET.</p>
+  <blockquote>
+    La fréquence et le sizing sont liés, si on bet à haute fréquence, on va réduire notre sizing sauf si on a un énorme range advantage.   </blockquote>
   <p>Exemple : Sur AKQ, KQT, on peut OB dès le flop a cause de notre avantage de NUTS.</p>
   <p>Ici on n'a donc pas envie de miser cher, mais de protéger notre équité, donc il devrait faire un petit sizing.</p>
   <p>Il fait 1/3p, il va donc avoir une fréquence importante de CBET, voila sa stratégie.</p>
