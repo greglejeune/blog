@@ -23,6 +23,9 @@ video: Basou_NL5K.mp4
       A[Profil Adversaire] --> S[Stratégie à adopter]
       S --> GTO
       S --> GTNO
+      GTO --> N[Notre Range]
+      GTNO --> N
+      A --> R[Sa range PreFlop]
   </div>
   
   <p>On commence par l'adversaire :</p>
