@@ -19,6 +19,9 @@ video: Basou_NL5K.mp4
   <h2>Thinking process</h2>
   
   <div class="mermaid">
+  A[Profil Adversaire] --> S[Stratégie à adopter]
+  S --> GTO
+  S --> GTNO
   </div>
   
   <p>On commence par l'adversaire :</p>
