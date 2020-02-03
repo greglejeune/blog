@@ -1,7 +1,18 @@
 ---
-layout: post
+layout: article
 title: "Pancakes du matin"
 categories: matin
 ---
 
-Test de recette
+<div class="body">
+  <h2>Ingredients</h2>
+  <ul>
+    <li>1 cs de farine + levure</li>
+    <li>1 oeuf</li>
+    <li>2 cs de cottage cheese</li>
+    <li>1 tranche de jambon</li>
+    <li>1 tomate</li>
+    <li>2 champignons</li>
+    <li>15g de parmesan</li>
+  </ul>
+</div>
