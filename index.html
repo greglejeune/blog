@@ -18,3 +18,12 @@ layout: blog
     </li>
 {% endfor %}
 </ul>
+
+<h2>Dessert</h2>
+<ul>
+{% for post in site.categories['dessert'] %}
+    <li>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
