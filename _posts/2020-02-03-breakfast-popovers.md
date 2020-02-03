@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Pancakes du matin
-subtitle: <a href="https://www.jamieoliver.com/recipes/cheese-recipes/breakfast-popovers/">Lien</a>
+subtitle: <a href="https://www.jamieoliver.com/recipes/cheese-recipes/breakfast-popovers/">https://www.jamieoliver.com/recipes/cheese-recipes/breakfast-popovers/</a>
 img: breakfast-popovers.webp
 categories: matin
 ---
