@@ -59,5 +59,9 @@ categories: poker
   <p>Sur certains board, on n'a pas assez de mains à équité alors on va prendre des mains avec des blockers. Mais ici ce n'est pas le cas.</p>
   
   <p>On utilise les blockers quand le jeu est short par contre plus le jeu est deep, plus on va vouloir chercher de l'équité.</p>
+  
+  <p>Si on se plonge plus en detail dans ce coup, on va vouloir X/R nos 9 mais on va aussi vouloir X/C pour avoir une range de X/R en value à la TURN. Comme on va call avec beaucoup de backdoor, quand elles rentreront on voudra aussi X/R ( J6cc ).</p>
+  
+  <p>Avec 9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 10px;">&nbsp;7 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" style="width: 10px;">, on va choisir de X/C au flop car avec ce kicker on va jamais faire de gros setup. De plus on bloque la range de call de vilain A7s, K7s, 87s, 76s, 87o, 76o.</p>
 
 </div>
