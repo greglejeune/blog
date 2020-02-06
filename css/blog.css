@@ -158,6 +158,6 @@ blockquote {
 }
 
 p>span {
-  background: linear-gradient(to top, transparent 10%, rgba(255, 0, 0, 0.5) 10.1%, rgba(255, 0, 0, 0.5) 40%, transparent 40.01%) no-repeat left bottom / 100% 100%;
+  background-image: linear-gradient(180deg,transparent 70%,#b2f5ea 0);
   transition: background-size .5s;
 }
