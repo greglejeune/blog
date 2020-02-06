@@ -159,5 +159,5 @@ blockquote {
 
 p>span {
   background-image: linear-gradient(180deg,transparent 70%,#b2f5ea 0);
-  transition: background-size .5s;
+  color: #000;
 }
