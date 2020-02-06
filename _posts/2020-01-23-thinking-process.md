@@ -54,9 +54,9 @@ categories: poker
   
   <figure class="image-center">
     <figcaption>
-      HU Pot - The BTN open and the BB calls.
+      BTN opens and BB calls.
     </figcaption>
-    <img src="/blog/img/picture.png">
+    <img src="/blog/img/2020-01-23-1.png">
     <figcaption>
       The BB checks and the BTN bets 1/3 pot.
     </figcaption>
