@@ -63,13 +63,13 @@ categories: poker
   
   <p>On va donc X/R pas mal, on va donc faire un petit sizing, un 3.5x surement.</p>
   
-  <p>Ensuite on va regarder la propriété de notre main pour sélectionner nos combos.</p>
+  <p>Ensuite on va regarder la <span>propriété de notre main</span> pour sélectionner nos combos.</p>
   
   <p>Les premières mains bonne à X/R ce sont celles avec le plus d'équité vers les NUTS. Dans ce spot on fera souvent face à des 9x, 5x, hauteur A, on va donc vouloir prendre des mains avec des cartes au dessus du 5 et avec des backdoors FD ou SD.</p>
   
   <p>Sur certains board, on n'a pas assez de mains à équité alors on va prendre des mains avec des blockers. Mais ici ce n'est pas le cas.</p>
   
-  <p>On utilise les blockers quand le jeu est short par contre plus le jeu est deep, plus on va vouloir chercher de l'équité.</p>
+  <p><span>On utilise les blockers quand le jeu est short par contre plus le jeu est deep, plus on va vouloir chercher de l'équité.</span></p>
   
   <h2>FLOP : 9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 15px;"> 9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" style="width: 15px;"> 5 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 15px;"></h2>
   
