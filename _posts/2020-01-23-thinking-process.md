@@ -18,9 +18,12 @@ categories: poker
   </div>
   
   <figure class="image-center">
+    <figcaption>
+      Pot HU - OPEN BTN
+    </figcaption>
     <img src="/blog/img/picture.png">
     <figcaption>
-      HU
+      Pot HU - OPEN BTN
     </figcaption>
   </figure>
 
