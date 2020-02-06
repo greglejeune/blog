@@ -17,6 +17,16 @@ categories: poker
     </video>
   </div>
   
+  <div class="mermaid">
+    graph LR
+      Profil
+      Flop
+      Sizing
+      style Profil fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
+      style Flop fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
+      style Sizing fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
+  </div>
+  
   <figure class="image-center">
     <figcaption>
       HU Pot - The BTN open and the BB calls.
@@ -88,3 +98,5 @@ categories: poker
   <p>On veut value encore nos 9, il va donc falloir trouver des bluffs. 76 sans <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 10px;"> serait un bon bluff et on devrait give up nos <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 10px;"> car on a envie des les faire folder à la RIVER.</p>
 
 </div>
+
+<script>mermaid.initialize({startOnLoad:true});</script>
