@@ -32,6 +32,7 @@ categories: poker
       style Flop fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
       style Sizing fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
       style Strategie fill:#d5e8d4,stroke:#82b366,stroke-width:1px
+      style Range fill:#f5f5f5,stroke:#666666,stroke-width:1px
       style GTO fill:#f8cecc,stroke:#b85450,stroke-width:1px
       style GTNO fill:#f8cecc,stroke:#b85450,stroke-width:1px
       style R fill:#f8cecc,stroke:#b85450,stroke-width:1px
