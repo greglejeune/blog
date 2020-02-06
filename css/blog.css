@@ -67,6 +67,16 @@ article>.body>.video {
   margin: 2rem -10rem;
 }
 
+article>.body>.image-center {
+  text-align: center;
+  margin: 2rem -10rem;
+}
+
+.image-center img {
+  max-width: 100%;
+  height: auto;
+}
+
 video {
  max-width: 100%;
  height: auto;
