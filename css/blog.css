@@ -107,6 +107,7 @@ blockquote {
 .board {
     width: 75%;
     color: gray;
+    border-collapse: collapse;
 }
 
 .board td {
@@ -116,27 +117,29 @@ blockquote {
 .flop {
   color: black;
   font-weight:bold;
+  background-color: #f0fff4;
 }
 
 .ingame {
-  border-top: 1px dashed black;
-  border-bottom: 1px dashed black;
+  border-top: 1px dashed #68d391;
+  border-bottom: 1px dashed #68d391;
+  background-color: #f0fff4;
 }
 
 .basel {
-  border-left: 1px dashed black;
+  border-left: 1px dashed #68d391;
 }
 
 .baser {
-  border-right: 1px dashed black;
+  border-right: 1px dashed #68d391;
 }
 
 .flop.top {
-  border-top: 1px dashed black;
+  border-top: 1px dashed #68d391;
 }
 
 .flop.down {
-  border-bottom: 1px dashed black;
+  border-bottom: 1px dashed #68d391;
 }
 
 .mermaid {
