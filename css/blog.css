@@ -105,13 +105,17 @@ blockquote {
 }
 
 .board {
-  width: 75%;
+    width: 75%;
+    color: gray;
 }
 
 .board td {
-  width: 20px;
-  height: 10px;
   text-align: center;
+}
+
+.flop {
+  color: black;
+  font-weight:bold;
 }
 
 .mermaid {
