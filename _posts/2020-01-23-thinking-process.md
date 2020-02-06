@@ -29,6 +29,11 @@ categories: poker
       style Profil fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
       style Flop fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
       style Sizing fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
+      style Strategie fill:#d5e8d4,stroke:#82b366,stroke-width:1px
+      style GTO fill:#f8cecc,stroke:#b85450,stroke-width:1px
+      style GTNO fill:#f8cecc,stroke:#b85450,stroke-width:1px
+      style R fill:#f8cecc,stroke:#b85450,stroke-width:1px
+      style S fill:#f8cecc,stroke:#b85450,stroke-width:1px
   </div>
   
   <figure class="image-center">
