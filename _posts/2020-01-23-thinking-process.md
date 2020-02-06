@@ -81,7 +81,7 @@ categories: poker
   
   <p>La TURN nous amène des bluffs, on peut alors X/R nos mains de value. On devrait sizer proche des 4x car on se polarise ici.</p>
   
-  <p>RIVER : J <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 10px;"></p>
+  <h2>RIVER : J <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 15px;"></h2>
   
   <p>On veut value encore nos 9, il va donc falloir trouver des bluffs. 76 sans <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 10px;"> serait un bon bluff et on devrait give up nos <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 10px;"> car on a envie des les faire folder à la RIVER.</p>
 
