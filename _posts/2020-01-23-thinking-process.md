@@ -19,9 +19,13 @@ categories: poker
   
   <div class="mermaid">
     graph LR
-      Profil
-      Flop
-      Sizing
+      Profil --> Strategie
+      Strategie --> GTO
+      Strategie --> GTNO
+      Profil --> Range
+      Range --> R[Range Advantage]
+      Flop --> R[Range Advantage]
+      Sizing --> S[Strategie]
       style Profil fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
       style Flop fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
       style Sizing fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
