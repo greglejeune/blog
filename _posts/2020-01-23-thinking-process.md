@@ -31,20 +31,21 @@ categories: poker
         <td rowspan="2">Q</td>
         <td rowspan="2">J</td>
         <td rowspan="2">T</td>
-        <td>9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 10px;"></td>
+        <td class="flop">9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 10px;"></td>
         <td rowspan="2">8</td>
         <td rowspan="2">7</td>
         <td rowspan="2">6</td>
-        <td rowspan="2">5 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 10px;"></td>
+        <td class="flop" rowspan="2">5 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 10px;"></td>
         <td rowspan="2">4</td>
         <td rowspan="2">3</td>
         <td rowspan="2">2</td>
       </tr>
       <tr>
-        <td>9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" style="width: 10px;"></td>
+        <td class="flop">9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" style="width: 10px;"></td>
       </tr>
     </tbody>
   </table>
+
   
   
 
