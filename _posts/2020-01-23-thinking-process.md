@@ -46,5 +46,18 @@ categories: poker
     </tbody>
   </table>  
   
+  <p>Dans ce spot on va beaucoup FLOAT, des hauteurs A, des backdoors FD + OC/5 ( J8cc, Kx ). On va vouloir avoir aussi une grosse stratégie de X/R, pour value des 9 mais aussi protéger des 5 ( Kicker faible + backdoor ).</p>
+  
+  <p>On va vouloir aussi anticiper la TURN, car comme on va beaucoup FLOAT, on va souvent subir une deuxième bet car c'est une bon board à second barrel. Nous n'avons jamais une range très forte, il va donc pouvoir value thin et nous mettre beaucoup de pression avec ses bluffs. Il va donc falloir que l'on défende cette range.</p>
+  
+  <p>On va donc X/R pas mal, on va donc faire un petit sizing, un 3.5x surement.</p>
+  
+  <p>Ensuite on va regarder la propriété de notre main pour sélectionner nos combos.</p>
+  
+  <p>Les premières mains bonne à X/R ce sont celles avec le plus d'équité vers les NUTS. Dans ce spot on fera souvent face à des 9x, 5x, hauteur A, on va donc vouloir prendre des mains avec des cartes au dessus du 5 et avec des backdoors FD ou SD.</p>
+  
+  <p>Sur certains board, on n'a pas assez de mains à équité alors on va prendre des mains avec des blockers. Mais ici ce n'est pas le cas.</p>
+  
+  <p>On utilise les blockers quand le jeu est short par contre plus le jeu est deep, plus on va vouloir chercher de l'équité.</p>
 
 </div>
