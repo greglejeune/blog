@@ -111,6 +111,7 @@ blockquote {
 .board td {
   width: 20px;
   height: 10px;
+  text-align: center;
 }
 
 .mermaid {
