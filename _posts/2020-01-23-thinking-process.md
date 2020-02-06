@@ -75,7 +75,7 @@ categories: poker
   
   <p>Avec 9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 10px;">&nbsp;7 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" style="width: 10px;">, on va choisir de X/C au flop car avec ce kicker on va jamais faire de gros setup. De plus on bloque la range de call de vilain A7s, K7s, 87s, 76s, 87o, 76o.</p>
   
-  <h2>TURN : 4 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 10px;"></h2>
+  <h2>TURN : 4 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 20px;"></h2>
   
   <p>Vilain fait 1/2p. Il devrait value thin ici vu notre range. Il ne fait pas trop petit pour ne pas nous faciliter la vie et pas trop gros pour pouvoir value thin et protéger sa main.</p>
   
