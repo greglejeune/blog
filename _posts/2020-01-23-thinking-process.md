@@ -19,11 +19,11 @@ categories: poker
   
   <figure class="image-center">
     <figcaption>
-      Pot HU - OPEN BTN
+      HU Pot - The BTN open and the BB calls.
     </figcaption>
     <img src="/blog/img/picture.png">
     <figcaption>
-      Pot HU - OPEN BTN
+      The BB checks and the BTN bets 1/3 pot.
     </figcaption>
   </figure>
 
