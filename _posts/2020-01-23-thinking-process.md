@@ -17,6 +17,8 @@ categories: poker
     </video>
   </div>
   
+  <h2>Thinking Process</h2>
+  
   <div class="mermaid">
     graph LR
       Profil --> Strategie
