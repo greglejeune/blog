@@ -30,6 +30,10 @@ categories: poker
       Sizing --> S[Strategie]
       Reponse --> Spot
       Reponse --> Main
+      Main --> Equite
+      Main --> Bloker
+      Equite --> Deep
+      Bloker --> SS
       style Profil fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
       style Flop fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
       style Sizing fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
@@ -38,6 +42,10 @@ categories: poker
       style Range fill:#f5f5f5,stroke:#666666,stroke-width:1px
       style Spot fill:#f5f5f5,stroke:#666666,stroke-width:1px
       style Main fill:#f5f5f5,stroke:#666666,stroke-width:1px
+      style Equite fill:#f5f5f5,stroke:#666666,stroke-width:1px
+      style Bloker fill:#f5f5f5,stroke:#666666,stroke-width:1px
+      style Deep fill:#f5f5f5,stroke:#666666,stroke-width:1px
+      style SS fill:#f5f5f5,stroke:#666666,stroke-width:1px
       style GTO fill:#f8cecc,stroke:#b85450,stroke-width:1px
       style GTNO fill:#f8cecc,stroke:#b85450,stroke-width:1px
       style R fill:#f8cecc,stroke:#b85450,stroke-width:1px
