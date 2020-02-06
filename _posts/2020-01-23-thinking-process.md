@@ -71,7 +71,7 @@ categories: poker
   
   <p>On utilise les blockers quand le jeu est short par contre plus le jeu est deep, plus on va vouloir chercher de l'équité.</p>
   
-  <h2>FLOP : 9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 15px;"> 7 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" style="width: 15px;"> 5 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 15px;"></h2>
+  <h2>FLOP : 9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 15px;"> 9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" style="width: 15px;"> 5 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 15px;"></h2>
   
   <p>Si on se plonge plus en detail dans ce coup, on va vouloir X/R nos 9 mais on va aussi vouloir X/C pour avoir une range de X/R en value à la TURN. Comme on va call avec beaucoup de backdoor, quand elles rentreront on voudra aussi X/R ( J6cc ).</p>
   
