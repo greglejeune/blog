@@ -23,7 +23,7 @@ categories: poker
   
   <p>Ici il va vouloir protéger son équité et devrait faire une petit sizing. Il fait 1/3p, ce qui fait sens. Ca veut dire qu'il va avoir une frequence de bet importante. Comme il va avoir une grosse fréquence, on va devoir défendre beaucoup.</p>
   
-  <table>
+  <table class="board">
     <tbody>
       <tr>
         <td rowspan="2">A</td>
