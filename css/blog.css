@@ -104,6 +104,10 @@ blockquote {
   background-color: #f7fafc;
 }
 
+.board {
+  width: 100%;
+}
+
 .board td {
   width: 20px;
   height: 10px;
