@@ -118,6 +118,27 @@ blockquote {
   font-weight:bold;
 }
 
+.ingame {
+  border-top: 1px dashed black;
+  border-bottom: 1px dashed black;
+}
+
+.basel {
+  border-left: 1px dashed black;
+}
+
+.baser {
+  border-right: 1px dashed black;
+}
+
+.flop.top {
+  border-top: 1px dashed black;
+}
+
+.flop.down {
+  border-bottom: 1px dashed black;
+}
+
 .mermaid {
    font-size: .5rem;
    color: #4a5568;
