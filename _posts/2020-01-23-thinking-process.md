@@ -30,7 +30,7 @@ categories: poker
   
   <p>Dans ce spot, le bas de range est 95o. Vilain a ici toutes ses OP et de meilleurs 9 ( car nous allons 3bet J9s, T9s, 98s, A9o, K9s, Q9s ). Il a en plus la position et de bonne hauteur A. Il est donc favoris dans ce coup, il a l'avantage de range et la position, il devrait souvent miser.</p>
 
-  <p>Le fréquence et le sizing sont des choses souvent liées, plus la fréquence est importante, plus le sizing sera faible. Dans des situations avec un gros avantage de range ( AKQ, KQT, ... ) on peut utiliser de gros sizing mais toujours avec une fréquence moindre.</p>
+  <p><span>Le fréquence et le sizing sont des choses souvent liées, plus la fréquence est importante, plus le sizing sera faible.</span> Dans des situations avec un gros avantage de range ( AKQ, KQT, ... ) on peut utiliser de gros sizing mais toujours avec une fréquence moindre.</p>
   
   <p>Ici il va vouloir protéger son équité et devrait faire une petit sizing. Il fait 1/3p, ce qui fait sens. Ca veut dire qu'il va avoir une frequence de bet importante. Comme il va avoir une grosse fréquence, on va devoir défendre beaucoup.</p>
   
