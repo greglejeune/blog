@@ -121,6 +121,16 @@ categories: poker
   <h2>RIVER : J <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 15px;"></h2>
   
   <p>On veut value encore nos 9, il va donc falloir trouver des bluffs. 76 sans <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 10px;"> serait un bon bluff et on devrait give up nos <img src="https://github.githubassets.com/images/icons/emoji/unicode/2663.png?v8" style="width: 10px;"> car on a envie des les faire folder à la RIVER.</p>
+  
+  <figure class="image-center">
+    <figcaption>
+      BTN opens and BB calls.
+    </figcaption>
+    <img src="/blog/img/2020-01-23-1.png">
+    <figcaption>
+      The BB checks and the BTN bets 1/3 pot.
+    </figcaption>
+  </figure>
 
 </div>
 
