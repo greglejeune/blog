@@ -2,8 +2,18 @@
 layout: blog
 ---
 
+<h2>Pok</h2>
 <ul>
 {% for post in site.categories['poker'] %}
+    <li>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
+<h2>GDP</h2>
+<ul>
+{% for post in site.categories['gdp'] %}
     <li>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </li>
