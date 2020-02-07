@@ -131,6 +131,16 @@ categories: poker
       The BB checks and the BTN bets 1/3 pot.
     </figcaption>
   </figure>
+  
+  <p>BTN check ce board.</p>
+  
+  <p>Il est capé ici car il devrait beaucoup cbet cette texture de board. Il devrait cbet ses Nuts, ses 7x &amp; 6x pour protection, il pourrait bet des 8x car ça bloque la calling range.</p>
+  
+  <p>Donc sur le 8 à la TURN, sa range n'est pas très forte. On va donc avoir une stratégie agressive. Soit avec un petit sizing à haute fréquence pour protection 6x, 7x car comme il est capé il ne devrait pas nous raise souvent. Soit avec un gros sizing car il est capé et on veut lui mettre beaucoup de pression, on utilisera ce sizing avec nos Nuts et nos 63 car on ne bloque pas la range de call, on utilise la propriété de notre main, mais aussi avec nos bon 8x.</p>
+  
+  <p>Dans ce spot on va donc beaucoup bluffer, sauf nos hauteur A qui ont de la SD value. Avec 4x, 5x par exemple. Avec 4x on pourra sizer petit deux fois pour target les draw (9x). Par contre avec une a grosse équité, pas besoin de faire petit, car si on est call on peut encore améliorer.</p>
+  
+  <p>Il y a donc deux réponses possibles à une range capée, soit un gros sizing pour mettre de la pression sur sa range, soit un blocking bet pour value très large. Attention, il faut block bet aussi avec des mains fortes. Ici on peut le faire avec 9T, mais il serait mieux de ne pas avoir de <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png?v8" style="width: 10px;">&nbsp;pour de temps en temps induce des raises.</p>
 
 </div>
 
