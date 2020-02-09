@@ -128,7 +128,7 @@ categories: poker
     </figcaption>
     <img src="/blog/img/2020-01-23-2.png">
     <figcaption>
-      The BB checks and the BTN bets 1/3 pot.
+      The BB checks and the BTN checks.
     </figcaption>
   </figure>
   
