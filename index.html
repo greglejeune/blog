@@ -20,6 +20,15 @@ layout: blog
 {% endfor %}
 </ul>
 
+<h2>Flowbird</h2>
+<ul>
+{% for post in site.categories['flowbird'] %}
+    <li>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
 <h2>Matin</h2>
 <ul>
 {% for post in site.categories['matin'] %}
