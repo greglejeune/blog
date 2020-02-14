@@ -90,7 +90,118 @@ categories: poker
         <td class="flop down">9 <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8" style="width: 10px;"></td>
       </tr>
     </tbody>
-  </table>  
+  </table>
+  
+  <div>
+    <svg xmlns="http://www.w3.org/2000/svg" width="931" height="106">
+      <g data-name="Groupe 42">
+        <g data-name="Groupe 27" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(334 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text data-name="9" transform="translate(394 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-17.241" y="0">9</tspan>
+          </text>
+        </g>
+        <g data-name="Groupe 28" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(262 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text transform="translate(322 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-18.936" y="0">T</tspan>
+          </text>
+        </g>
+        <g data-name="Groupe 30" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(478 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text data-name="7" transform="translate(538 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-17.241" y="0">7</tspan>
+          </text>
+        </g>
+        <g data-name="Groupe 32" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(406 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text data-name="8" transform="translate(466 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-17.241" y="0">8</tspan>
+          </text>
+        </g>
+        <g data-name="Groupe 33" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(190 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text transform="translate(250 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-15.5" y="0">J</tspan>
+          </text>
+        </g>
+        <g data-name="Groupe 34" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(118 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text transform="translate(178 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-24.113" y="0">Q</tspan>
+          </text>
+        </g>
+        <g data-name="Groupe 35" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(46 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text transform="translate(106 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-20.677" y="0">K</tspan>
+          </text>
+        </g>
+        <g data-name="Groupe 36" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(-26 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text transform="translate(34 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-20.677" y="0">A</tspan>
+          </text>
+        </g>
+        <g data-name="Groupe 37" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(550 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text data-name="6" transform="translate(610 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-17.241" y="0">6</tspan>
+          </text>
+        </g>
+        <g data-name="Groupe 38" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(622 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text data-name="5" transform="translate(682 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-17.241" y="0">5</tspan>
+          </text>
+        </g>
+        <g data-name="Groupe 39" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(694 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text data-name="4" transform="translate(754 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-17.241" y="0">4</tspan>
+          </text>
+        </g>
+        <g data-name="Groupe 40" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(766 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text data-name="3" transform="translate(826 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-17.241" y="0">3</tspan>
+          </text>
+        </g>
+        <g data-name="Groupe 41" opacity=".502">
+          <g data-name="Groupe 14" transform="translate(838 -509)">
+            <rect data-name="Rectangle 8" width="67" height="101" rx="8" transform="translate(26 514)" fill="#bbbcbf" />
+            <rect data-name="Rectangle 7" width="67" height="102" rx="8" transform="translate(26 509)" fill="#fff" />
+          </g><text data-name="2" transform="translate(898 52)" fill="#515262" font-size="62" font-family="Helvetica">
+            <tspan x="-17.241" y="0">2</tspan>
+          </text>
+        </g>
+      </g>
+    </svg>
+  </div>
   
   <p>Dans ce spot on va beaucoup FLOAT, des hauteurs A, des backdoors FD + OC/5 ( J8cc, Kx ). On va vouloir avoir aussi une grosse stratégie de X/R, pour value des 9 mais aussi protéger des 5 ( Kicker faible + backdoor ).</p>
   
