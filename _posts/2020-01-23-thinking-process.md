@@ -93,7 +93,7 @@ categories: poker
   </table>
   
   <div>
-    <svg xmlns="http://www.w3.org/2000/svg" width="931" height="106">
+    <svg xmlns="http://www.w3.org/2000/svg" width="432">
       <g data-name="Groupe 42">
         <g data-name="Groupe 27" opacity=".502">
           <g data-name="Groupe 14" transform="translate(334 -509)">
