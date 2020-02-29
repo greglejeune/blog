@@ -40,5 +40,11 @@ categories: gdp
       </li>
     </ul>
     <li>Projects</li>
+    <ul>
+      <li>
+        Any result that requires more than one action to be performed. Link your Projects with your Goals and/or Areas of Responsability.
+      </li>
+    </ul>
+    <li>Actions</li>
   </ol>
 </div>
