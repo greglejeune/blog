@@ -46,5 +46,10 @@ categories: gdp
       </li>
     </ul>
     <li>Actions</li>
+    <ul>
+      <li>
+        Your current actions are those that are in your Calendar, Next Actions and Waiting for lists.
+      </li>
+    </ul>
   </ol>
 </div>
