@@ -16,4 +16,7 @@ categories: gdp
   <p>
     6 levels of perspective to properly define all our work.
   </p>
+  <ol>
+    <li>Purpose</li>
+  </ol>
 </div>
