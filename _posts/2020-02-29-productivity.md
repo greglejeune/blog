@@ -33,5 +33,12 @@ categories: gdp
         What do you want to achieve in the coming years. Try to link each goal to a higher vision.
       </li>
     </ul>
+    <li>Areas of Responsibility</li>
+    <ul>
+      <li>
+        They are the different facets of your life that you want to improve or maintain at a good level. Which are your main roles ?
+      </li>
+    </ul>
+    <li>Projects</li>
   </ol>
 </div>
