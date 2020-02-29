@@ -18,5 +18,8 @@ categories: gdp
   </p>
   <ol>
     <li>Purpose</li>
+    <ul>
+      <li>What do you want to do with your life ?</li>
+    </ul>
   </ol>
 </div>
