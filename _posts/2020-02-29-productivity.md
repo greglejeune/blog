@@ -21,10 +21,16 @@ categories: gdp
     <ul>
       <li>What do you want to do with your life ?</li>
     </ul>
-    <li>How would you like to see yourself in about five years?</li>
+    <li>Vision</li>
     <ul>
       <li>
-        You can define different visions of yourself: in the professional landscape, in your personal life, in your relationships.
+        How would you like to see yourself in about five years ? You can define different visions of yourself: in the professional landscape, in your personal life, in your relationships.
+      </li>
+    </ul>
+    <li>Goals</li>
+    <ul>
+      <li>
+        What do you want to achieve in the coming years. Try to link each goal to a higher vision.
       </li>
     </ul>
   </ol>
