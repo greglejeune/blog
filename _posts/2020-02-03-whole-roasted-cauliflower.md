@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Chou fleur
-subtitle: <a href="https://www.jamieoliver.com/recipes/vegetables-recipes/whole-roasted-cauliflower/">https://www.jamieoliver.com/recipes/vegetables-recipes/whole-roasted-cauliflower/</a>
+subtitle: <a href="https://www.jamieoliver.com/recipes/cauliflower-recipes/greek-inspired-cauliflower-stew/">https://www.jamieoliver.com/recipes/cauliflower-recipes/greek-inspired-cauliflower-stew/</a>
 img: whole-roasted-cauliflower.webp
 categories: plat
 ---
