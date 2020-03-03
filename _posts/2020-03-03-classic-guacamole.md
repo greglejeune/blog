@@ -3,6 +3,7 @@ layout: article
 title: Guacamole
 subtitle:
 video: Jamie Oliver - 15min - Sandwich guacamole.mp4
+img: classic-guacamole.jpg
 categories: apero
 ---
 
