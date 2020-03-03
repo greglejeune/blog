@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Formation
-img: sn.jpg
+img: formation.png
 categories: poker
 ---
 
