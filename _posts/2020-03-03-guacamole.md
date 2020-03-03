@@ -18,4 +18,7 @@ categories: apero
     <li>Sel</li>
   </ul>
   <h2>Etapes</h2>
+  <ul>
+    <li>Mixer le tout à l'aide d'un robot</li>
+  </ul>
 </div>
