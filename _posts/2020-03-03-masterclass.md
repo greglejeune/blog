@@ -14,4 +14,7 @@ categories: poker
   <p>
     <span>La réalisation de l'équité</span> est le pourcentage du pot qu'une main peut s'attendre à gagner sur la base de son équité.
   </p>
+  <p>
+    En d'autres termes, il s'agit de l'équité après avoir pris en compte les nombreuses variables du jeu postflop.
+  </p>
 </div>
