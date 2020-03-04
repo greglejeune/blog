@@ -36,9 +36,12 @@ categories: poker
   <ul>
     <li>Plus une main est forte, plus elle réalisera son équité,</li>
     <li>Plus vos deux cartes sont connectées, plus votre main réalisera son équité,</li>
-    <li>Les mains suitées réalisent beaucoup leur d'équité que leurs homologues non suitées.</li>
+    <li>Les mains suitées réalisent beaucoup plus leur d'équité que leurs homologues non suitées.</li>
   </ul>
   <p>
     Plus nos cartes sont connectées et/ou suitées, plus il est probable que nous auront une solide équité au flop, nous avons donc plus de chances d'atteindre l'abattage et de réaliser toute l'équité de notre main.
+  </p>
+  <p>
+    La régle est que plus stack-to-pot ratio (SPR) est grand, plus le joueur en position réalisera son équité. Les mains suitées et connectées ont tendance à réaliser plus d'équité avec un SPR plus grand car elles gagnent en moyenne des pots plus importants lorsqu'elles touchent de grosses mains.
   </p>
 </div>
