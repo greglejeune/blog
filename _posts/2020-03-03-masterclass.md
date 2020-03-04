@@ -27,4 +27,7 @@ categories: poker
     <li>La range adverse</li>
     <li>L'edge</li>
   </ul>
+  <p>
+    Vos mains réaliseront plus d'équité lorsque vous êtes en position et moins d'équité lorsque vous n'êtes pas en position. Quand on a la position, on peut agir en dernier sur chaque street et ainsi prendre des décisions plus justes et plus précises.
+  </p>
 </div>
