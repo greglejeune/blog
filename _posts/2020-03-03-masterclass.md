@@ -44,4 +44,7 @@ categories: poker
   <p>
     La régle est que plus stack-to-pot ratio (SPR) est grand, plus le joueur en position réalisera son équité. Les mains suitées et connectées ont tendance à réaliser plus d'équité avec un SPR plus grand car elles gagnent en moyenne des pots plus importants lorsqu'elles touchent de grosses mains.
   </p>
+  <p>
+    Le joueur qui a la range la plus forte a tendance à réaliser plus d'équité, car il peut jouer plus agressivement avec le bas de sa range, forçant ainsi son adversaire à folder des mains avec une équité descente.
+  </p>
 </div>
