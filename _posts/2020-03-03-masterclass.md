@@ -15,6 +15,16 @@ categories: poker
     <span>La réalisation de l'équité</span> est le pourcentage du pot qu'une main peut s'attendre à gagner sur la base de son équité.
   </p>
   <p>
-    En d'autres termes, il s'agit de l'équité après avoir pris en compte les nombreuses variables du jeu postflop (pour determiner la fréquence de showdown), bluffer, se faire bluffer.
+    En d'autres termes, il s'agit de l'équité après avoir pris en compte les nombreuses variables du jeu postflop (pour determiner la fréquence de showdown), bluffer, se faire bluffer, etc.
   </p>
+  <p>
+    Voici quelques facteurs qui impactent la réalisation d'équité :
+  </p>
+  <ul>
+    <li>Position</li>
+    <li>Jouabilité</li>
+    <li>Profondeur</li>
+    <li>La range adverse</li>
+    <li>L'edge</li>
+  </ul>
 </div>
