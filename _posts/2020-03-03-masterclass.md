@@ -28,6 +28,6 @@ categories: poker
     <li>L'edge</li>
   </ul>
   <p>
-    Vos mains réaliseront plus d'équité lorsque vous êtes en position et moins d'équité lorsque vous n'êtes pas en position. Quand on a la position, on peut agir en dernier sur chaque street et ainsi prendre des décisions plus justes et plus précises.
+    Vos mains réaliseront plus d'équité lorsque vous êtes en position et moins d'équité lorsque vous n'êtes pas en position. Quand on a la position, on peut agir en dernier sur chaque street et ainsi prendre des décisions plus justes et plus précises. Cela signifie que l'on sera en mesure de bluffer et de valoriser nos mains plus efficacement car on aura plus d'information. Par conséquent, nous réaliserons plus d'équité.
   </p>
 </div>
