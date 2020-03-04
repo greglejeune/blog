@@ -30,4 +30,15 @@ categories: poker
   <p>
     Vos mains réaliseront plus d'équité lorsque vous êtes en position et moins d'équité lorsque vous n'êtes pas en position. Quand on a la position, on peut agir en dernier sur chaque street et ainsi prendre des décisions plus justes et plus précises. Cela signifie que l'on sera en mesure de bluffer et de valoriser nos mains plus efficacement car on aura plus d'information. Par conséquent, nous réaliserons plus d'équité.
   </p>
+  <p>
+    Il existe deux règles générales pour la jouabilité d'une main concernant la réalisation de l'équité :
+  </p>
+  <ul>
+    <li>Plus une main est forte, plus elle réalisera son équité,</li>
+    <li>Plus vos deux cartes sont connectées, plus votre main réalisera son équité,</li>
+    <li>Les mains suitées réalisent beaucoup leur d'équité que leurs homologues non suitées.</li>
+  </ul>
+  <p>
+    Plus nos cartes sont connectées et/ou suitées, plus il est probable que nous auront une solide équité au flop, nous avons donc plus de chances d'atteindre l'abattage et de réaliser toute l'équité de notre main.
+  </p>
 </div>
