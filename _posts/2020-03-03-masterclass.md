@@ -6,4 +6,5 @@ categories: poker
 ---
 
 <div class="body">
+  <h2>Réalisation d’équité</h2>
 </div>
