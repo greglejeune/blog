@@ -47,4 +47,7 @@ categories: poker
   <p>
     Le joueur qui a la range la plus forte a tendance à réaliser plus d'équité, car il peut jouer plus agressivement avec le bas de sa range, forçant ainsi son adversaire à folder des mains avec une équité descente.
   </p>
+  <p>
+    Les compétences des joueurs jouent aussi un role important, notamment la fréquence et l'éfficacité avec lesquelles ils peuvent exercer une pression à chaque street. 
+  </p>
 </div>
