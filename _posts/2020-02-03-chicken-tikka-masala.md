@@ -52,4 +52,8 @@ categories: plat
     <li>Retirer du feu, ajouter les tomates, le cube émiétté, 30cl d'eau, sel, lait de coco</li>
     <li>Laisser mijoter 25 min</li>
   </ul>
+  <h3>Dressage</h3>
+  <ul>
+    <li>Ajouter le poulet cuit dans la sauce et des feuilles de coriandre</li>
+  </ul>
 </div>
