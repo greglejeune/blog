@@ -64,3 +64,12 @@ layout: blog
     </li>
 {% endfor %}
 </ul>
+
+<h2>Test</h2>
+<ul>
+{% for post in site.categories['test'] %}
+    <li>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
