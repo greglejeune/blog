@@ -9,7 +9,7 @@ categories: pu
 
 <div class="body">
 
-  <h2>THEORIE</h2>
+  <h2>THEORIE sur As7d2c</h2>
 
   <p>Pas un BET range mais mixé <span>50% check & 50% bet</span> avec <span>40% de small et 10% de half</span></p>
 
