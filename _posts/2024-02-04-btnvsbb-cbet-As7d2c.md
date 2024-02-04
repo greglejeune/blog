@@ -20,7 +20,7 @@ categories: pu btnvsbb cbet srp ip
   <p>L'analyse de l'équité montre 3 sections distinctes : </p>
 
   <ul>
-    <li>Le <span>core de range</span> entre 0 et 50/60;</li>
+    <li>Le <b>core de range</b> entre 0 et 50/60;</li>
     <li><span>L'avantage de bonnes mains</span> entre 60 et 95;</li>
     <li><span>L'avantage de Nuts</span> enttre 95 et 100;</li>
   </ul>
