@@ -4,7 +4,7 @@ title: BTN vs BB CBET FLOP
 subtitle: 
 img: 
 video: 
-categories: poker
+categories: pu
 ---
 
 <div class="body">
