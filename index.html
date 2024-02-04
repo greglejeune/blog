@@ -6,9 +6,8 @@ layout: blog
 <ul>
 {% for post in site.categories['pu'] %}
     <li>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        {% if post.categories contains 'cbet' %}
-          <li>ok</li>
+        {% if post.categories contains 'btnvsbb' %}
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         {% endif %}
     </li>
 {% endfor %}
