@@ -2,7 +2,7 @@
 layout: article
 title: BTN vs BB CBET FLOP
 subtitle: 
-img: 
+img: pu.jpg
 video: 
 categories: pu
 ---
