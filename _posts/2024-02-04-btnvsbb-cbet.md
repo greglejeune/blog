@@ -14,11 +14,11 @@ categories: pu
   </figure>
 
   <figure class="image-center">
-    <img src="/blog/img/2024-02-04-core.png">
+    <img src="/blog/img/2024-02-04-core.png" style="width: 50%; heigth: 50%">
   </figure>
 
   <figure class="image-center">
-    <img src="/blog/img/2024-02-04-top.png">
+    <img src="/blog/img/2024-02-04-top.png" style="width: 50%; heigth: 50%">
   </figure>
   
 </div>
