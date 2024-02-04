@@ -4,7 +4,7 @@ title: BTN vs BB CBET FLOP As 7d 2c
 subtitle: 
 img: pu.jpg
 video: 
-categories: pu
+categories: pu btnvsbb cbet
 ---
 
 <div class="body">
