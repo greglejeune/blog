@@ -4,7 +4,7 @@ title: CBET As 7d 2c
 subtitle: 
 img: pu.jpg
 video: 
-categories: pu btnvsbb cbet srp
+categories: pu btnvsbb cbet srp ip
 ---
 
 <div class="body">
