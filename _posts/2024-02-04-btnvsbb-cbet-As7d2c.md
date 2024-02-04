@@ -1,6 +1,6 @@
 ---
 layout: article
-title: BTN vs BB CBET FLOP As 7d 2c
+title: CBET As 7d 2c
 subtitle: 
 img: pu.jpg
 video: 
