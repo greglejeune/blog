@@ -31,7 +31,7 @@ categories: pu btnvsbb cbet srp
 
   <p>L'équité de BTN est meilleure globalement au niveau du CORE de range. BB a plus de trash que BTN (bas de range) et à de manière générale moins d'équité.</p>
 
-  <p>On pourra donc avoir <span>un petit sizing</span>.</p>
+  <p>On pourra donc avoir <span>un petit sizing</span>. C'est la réalisation d'équité qui influence cette possibilité car si la <span>réalisation d'équité</span> est bonne pour une main, son EV va augmenter.</p>
 
   <p>Nénamoins beaucoup de mains n'ont pas d'interet a miser (mauvaise EQR dans la ligne bet, ex KT), on aura donc aussi <span>beaucoup de check</span>.</p>
 
