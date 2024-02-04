@@ -21,8 +21,8 @@ categories: pu btnvsbb cbet srp ip
 
   <ul>
     <li>Le <b>core de range</b> entre 0 et 50/60;</li>
-    <li><span>L'avantage de bonnes mains</span> entre 60 et 95;</li>
-    <li><span>L'avantage de Nuts</span> enttre 95 et 100;</li>
+    <li><b>L'avantage de bonnes mains</b> entre 60 et 95;</li>
+    <li><b>L'avantage de Nuts</b> enttre 95 et 100;</li>
   </ul>
 
   <figure class="image-center">
