@@ -20,9 +20,9 @@ categories: pu btnvsbb cbet srp
   <p>L'analyse de l'équité montre 3 sections distinctes : </p>
 
   <ul>
-    <li>Le core de range entre 0 et 50/60</li>
-    <li>L'avantage de bonnes mains entre 60 et 95</li>
-    <li>L'avantage de Nuts enttre 95 et 100</li>
+    <li>Le <span>core de range</span> entre 0 et 50/60</li>
+    <li><span>L'avantage de bonnes mains</span> entre 60 et 95</li>
+    <li><span>L'avantage de Nuts</span> enttre 95 et 100</li>
   </ul>
 
   <figure class="image-center">
@@ -31,20 +31,20 @@ categories: pu btnvsbb cbet srp
 
   <p>L'équité de BTN est meilleure globalement au niveau du CORE de range. BB a plus de trash que BTN (bas de range) et à de manière générale moins d'équité.</p>
 
-  <p>On pourra donc avoir un petit sizing.</p>
+  <p>On pourra donc avoir <span>un petit sizing</span>.</p>
 
-  <p>Nénamoins beaucoup de mains n'ont pas d'interet a miser (mauvaise EQR dans la ligne bet, ex KT), on aura donc aussi beaucoup de check.</p>
+  <p>Nénamoins beaucoup de mains n'ont pas d'interet a miser (mauvaise EQR dans la ligne bet, ex KT), on aura donc aussi <span>beaucoup de check</span>.</p>
 
   <figure class="image-center">
     <img src="/blog/img/2024-02-04-core.png" style="width: 50%; heigth: 50%">
   </figure>
 
-  <p>Le fait d'avoir un gros avantage de bonnes mains (plus d'As) nous permettra d'avoir un sizing half.</p>
+  <p>Le fait d'avoir un gros avantage de bonnes mains (plus d'As) nous permettra d'avoir <span>un sizing half</span>.</p>
 
   <figure class="image-center">
     <img src="/blog/img/2024-02-04-top.png" style="width: 50%; heigth: 50%">
   </figure>
 
-  <p>Il n'y a pas vraiment d'avantage de Nuts et donc pas de gros sizing.</p>
+  <p>Il n'y a pas vraiment d'avantage de Nuts et donc <span>pas de gros sizing</span>.</p>
   
 </div>
