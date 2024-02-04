@@ -11,18 +11,18 @@ categories: pu btnvsbb cbet srp
 
   <h2>THEORIE sur As7d2c</h2>
 
-  <p>Pas un BET range mais mixé <span>50% check & 50% bet</span> avec <span>40% de small et 10% de half</span></p>
+  <p>Pas un BET range mais mixé <span>50% check & 50% bet</span> avec <span>40% de small et 10% de half</span>.</p>
 
-  <p>Beaucoup de check condensé sur les Kx et mains intermédiaire</p>
+  <p>Beaucoup de check condensé sur les Kx et mains intermédiaire.</p>
 
-  <p>Brelan et deux paires vont être misés</p>
+  <p>Brelan et deux paires vont être misés.</p>
 
   <p>L'analyse de l'équité montre 3 sections distinctes : </p>
 
   <ul>
-    <li>Le <span>core de range</span> entre 0 et 50/60</li>
-    <li><span>L'avantage de bonnes mains</span> entre 60 et 95</li>
-    <li><span>L'avantage de Nuts</span> enttre 95 et 100</li>
+    <li>Le <span>core de range</span> entre 0 et 50/60;</li>
+    <li><span>L'avantage de bonnes mains</span> entre 60 et 95;</li>
+    <li><span>L'avantage de Nuts</span> enttre 95 et 100;</li>
   </ul>
 
   <figure class="image-center">
