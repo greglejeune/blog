@@ -11,6 +11,10 @@ categories: pu btnvsbb cbet srp ip
 
   <h2>THEORIE sur 7s5h5d</h2>
 
-  <p></p>
+  <p>Beaucoup de mains avec une EQ pas terrible.</p>
+
+  <p>Si on ne se fait pas check/raise assez, on va gagner plus d'argent à miser directement avec KJo par exemple. L'EQR de KJo va augmenter, donc son EV va augmenter.</p>
+
+  <p>On va check back des A5 a cause du removal car BB aura moins de hauteur A et devrait donc miser plus souvent à la TURN.</p>
   
 </div>
