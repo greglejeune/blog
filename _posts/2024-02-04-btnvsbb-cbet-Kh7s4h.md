@@ -1,6 +1,6 @@
 ---
 layout: article
-title: CBET As 7d 2c
+title: CBET Kh 7s 4h
 subtitle: 
 img: pu.jpg
 video: 
