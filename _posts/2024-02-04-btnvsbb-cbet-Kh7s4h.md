@@ -17,6 +17,6 @@ categories: pu btnvsbb cbet srp ip
 
   <p>On va miser des plus petit As, pour faire fold des hauteur A et avoir plus de possibilité de barrel.</p>
 
-  
+  <p>C'est interressant de check AK pour des question de removal.</p>
   
 </div>
