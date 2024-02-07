@@ -30,6 +30,10 @@ categories: pu btnvsbb cbet srp ip
 
   <img src="/blog/img/2024-02-04-eq.png" style="width: 50%;">
 
-  <p></p>
+  <h2>BOARDS</h2>
+
+  <b id="A72">As 7d 2c</b>
+
+  <p>Test</p>
   
 </div>
