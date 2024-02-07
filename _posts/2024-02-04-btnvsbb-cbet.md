@@ -16,8 +16,8 @@ categories: pu btnvsbb cbet srp ip
   <table class="video">
     <tbody>
       <tr>
-        <td><img src="/blog/img/2024-02-04-core.png" style="width: 90%;"></td>
-        <td><img src="/blog/img/2024-02-04-top.png" style="width: 90%;"></td>
+        <td><img src="/blog/img/2024-02-04-core.png" style="width: 99%;"></td>
+        <td><img src="/blog/img/2024-02-04-top.png" style="width: 99%;"></td>
       </tr>
     </tbody>
   </table>
