@@ -26,13 +26,13 @@ categories: pu btnvsbb cbet srp ip
     </tbody>
   </table>
 
-  <b>Les sizings</b>
+  <div><b>Les sizings</b></div>
 
   <img src="/blog/img/2024-02-04-eq.png" style="width: 50%;">
 
   <h2>BOARDS</h2>
 
-  <b id="A72">As 7d 2c</b>
+  <div><b id="A72">As 7d 2c</b></div>
 
   <p>Test</p>
   
