@@ -13,7 +13,7 @@ categories: pu btnvsbb cbet srp ip
 
   <b>Différences entre les ranges</b>
 
-  <table>
+  <table style="width: 100%">
     <tbody>
       <tr>
         <td><img src="/blog/img/2024-02-04-core.png" style="width: 90%; heigth: 90%"></td>
