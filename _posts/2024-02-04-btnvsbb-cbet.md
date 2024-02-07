@@ -22,6 +22,16 @@ categories: pu btnvsbb cbet srp ip
     </tbody>
   </table>
 
+  <b>Les sizings</b>
+
+  <table class="video">
+    <tbody>
+      <tr>
+        <td><img src="/blog/img/2024-02-04-eq.png" style="width: 99%;"></td>
+      </tr>
+    </tbody>
+  </table>
+
   <p></p>
   
 </div>
