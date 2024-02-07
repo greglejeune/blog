@@ -28,7 +28,7 @@ categories: pu btnvsbb cbet srp ip
 
   <div><b>Les sizings</b></div>
 
-  <img src="/blog/img/2024-02-04-eq.png" style="width: 50%;">
+  <img src="/blog/img/2024-02-04-eq.png" style="width: 75%;">
 
   <h2>BOARDS</h2>
 
