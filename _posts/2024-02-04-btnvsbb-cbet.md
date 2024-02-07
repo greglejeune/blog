@@ -15,7 +15,7 @@ categories: pu btnvsbb cbet srp ip
 
   <h2>GENERALITE</h2>
 
-  <b>Différences entre les ranges</b>
+  <div><b>Différences entre les ranges</b></div>
 
   <table class="video">
     <tbody>
