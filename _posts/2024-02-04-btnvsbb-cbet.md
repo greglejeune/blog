@@ -9,6 +9,10 @@ categories: pu btnvsbb cbet srp ip
 
 <div class="body">
 
+  <ul>
+    <li><a href="#A72">As 7d 2c</a></li>
+  </ul>
+
   <h2>GENERALITE</h2>
 
   <b>Différences entre les ranges</b>
@@ -24,13 +28,7 @@ categories: pu btnvsbb cbet srp ip
 
   <b>Les sizings</b>
 
-  <table class="video">
-    <tbody>
-      <tr>
-        <td><img src="/blog/img/2024-02-04-eq.png" style="width: 99%;"></td>
-      </tr>
-    </tbody>
-  </table>
+  <img src="/blog/img/2024-02-04-eq.png" style="width: 50%;">
 
   <p></p>
   
